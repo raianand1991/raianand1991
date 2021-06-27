@@ -1,9 +1,7 @@
 # Hello, world! 👋
 
-I am _Anand Rai_. I have strong media and communication professional with a Bachelor of Technology focused in Computer Science and engineering from _National Institute of Technology, Patna_. I am an experienced developer skilled in C++, Java, Android Development, Full Stack Development, Machine learning, MERN, Javascript and its frameworks. My activities are much beyond my stream of education. ⚡ I am involved in a lot of *organizational works* in college related to clubs, hackathons, fests and workshops and helped in building many communities from scratch.
+I am _Anand Rai_. I have strong creative urge , part time poet & part time coder. An ML Enthusiast these days with a  Master of Technology  in Data Science from _Indian Institute of Technology, Hyderabad_. I am an experienced developer skilled in C++, Java, Python , Full Stack Development, Machine learning,  Javascript and its frameworks and have done various projects in IoT, NLP , web development etc.
 
-### 😄 Pronouns
-She/Her
 
 ### 🌱 What do I do and What have I done? 
 
