@@ -28,11 +28,12 @@ You can ask me anything . I am looking forward to absorb knowledge🧠,gain expe
 <p align="center"> 
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/raianand1991/count.svg" />
-</p>
+
 
 <br>
 <img src="https://gist.github.com/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif" /> 
 
+  </p>
 
 ***
 
