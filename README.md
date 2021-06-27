@@ -1,6 +1,6 @@
 # Hello, world! 👋
 
-I am _Anand Rai_. I have strong creative urge , part time poet & part time coder. An ML Enthusiast these days with a  Master of Technology  in Data Science from _Indian Institute of Technology, Hyderabad_. I am an experienced developer skilled in C++, Java, Python , Full Stack Development, Machine learning,  Javascript and its frameworks and have done various projects in IoT, NLP , web development etc.
+I am _Anand Rai_ (आनंद राय). I have strong creative urge , part time poet & part time coder. An ML Enthusiast these days with a  Master of Technology  in Data Science from _Indian Institute of Technology, Hyderabad_. I am an experienced developer skilled in C++, Java, Python , Full Stack Development, Machine learning,  Javascript and its frameworks and have done various projects in IoT, NLP , web development etc.
 
 
 ### 🌱 What do I do and What have I done? 
