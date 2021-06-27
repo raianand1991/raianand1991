@@ -30,7 +30,8 @@ You can ask me anything . I am looking forward to absorb knowledge🧠,gain expe
   <img src="https://profile-counter.glitch.me/raianand1991/count.svg" />
 </p>
 
-https://gist.github.com/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif![image](https://user-images.githubusercontent.com/73010724/123548973-ab07c480-d784-11eb-9f71-5a475250f90b.png)
+<br>
+< img src= "https://gist.github.com/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif" /> 
 
 
 ***
