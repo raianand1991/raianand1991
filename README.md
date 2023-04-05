@@ -11,7 +11,7 @@ I am _Anand Rai_ (आनंद राय). I have strong creative urge , part ti
 - Awarded MHRD Certificate of Excellence thrice for academic peroformance ing B.Tech during 2008 TO 2012 
 - District Topper of Ghazipur(U.P) in CBSE Matriculation Exam 2006
 - Interned and worked in various profile at Amada. Co, Japan
-- Currently working as a Deputy Manager at Steel Authority of India Ltd.(SAIL) 
+- Currently working as a  Manager at Joint Plant Committee (Ministry of Steel)
 - Development of Dashboard on Iron & Steel Database for Ministry of Steel, Govt. of India
 
 
