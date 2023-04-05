@@ -16,7 +16,7 @@ I am _Anand Rai_ (आनंद राय). I have strong creative urge , part ti
 
 
 ### ⚡ One line that describes me best? 
-In search of a space where simplicity and execellence meet😉😉
+In search of a space where simplicity and excellence meet😉😉
 
 ### 📫 How to reach me?
 - [Twitter](https://twitter.com/anand_jpc) 
